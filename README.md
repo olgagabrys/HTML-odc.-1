@@ -1,2 +1,2 @@
-# Test
+# Lesson 1
 First try
